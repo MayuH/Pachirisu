@@ -16,6 +16,6 @@ READMEにて日記つけよっか
 12/24バウンディングボックスの範囲を変更して実験
 
 12/26  https://github.com/ZQPei/patchmatch_inpainting
-　　　　パッチマッチ。実装時にopenCV3をプロジェクトにリンクできないエラーが出た。(現時点でopenCV4が最新版である)→
-　　　　解決："brew link --overwrite opencv@3 --force"とコマンド入力。openCV3をリンクした。openCV2も同様の方法でリンク可能。
+パッチマッチ。コンパイル実行時にopenCV3をプロジェクトにリンクできないエラーが出た。(現時点でopenCV4が最新版である)→
+解決："brew link --overwrite opencv@3 --force"とコマンド入力。openCV3をリンクした。openCV2も同様の方法でリンク可能。
                          
